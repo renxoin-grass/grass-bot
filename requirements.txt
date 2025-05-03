@@ -5,6 +5,4 @@ random-user-agent
 loguru==0.5.3
 schedule==1.1.0
 bandwidth-sdk
-bandwidth-monitor
-multiprocessing
 git+https://github.com/racinette/websockets_proxy.git
